@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sun.edx.dev",
+    "sha256_cert_fingerprints":
+    ["55:CD:C0:19:19:8D:C8:BA:87:13:02:61:17:83:9A:91:E5:93:FC:E7:CD:36:5E:EE:9B:D0:F3:76:B2:75:2E:53"]
+  }
+}]

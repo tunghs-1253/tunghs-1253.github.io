@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+				"appID": "DZNDUUNX92.com.sun.edx.dev",
+				"paths": ["/learn/*"]
+			},
+			{
+				"appID": "DZNDUUNX92.com.sun.edx.stg",
+				"paths": ["/learn/*"]
+			},
+            {
+                "appID": "DZNDUUNX92.com.sun.edx",
+                "paths": ["/learn/*"]
+            }
+        ]
+    }
+}
